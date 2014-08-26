@@ -1,4 +1,4 @@
-Team 3128 Team Member Contract
+Team 3128 Member Contract
 =====
 
 This contract outlines the rules that team member's agree to be bound by for the duration of the year. While we are open to anyone participating, they must agree to these rules and follow them in order to maintain the privilege that is working as a member of Team 3128.
