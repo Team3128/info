@@ -6,15 +6,15 @@ This contract outlines the rules that team member's agree to be bound by for the
 This contract is stored online where anyone can reference it at anytime and see a full list of changes made to it and when they were made. Anyone is allowed to suggest changes to the contract by forking the repository, making changes, and making a pull request that their changes be incorporated into the official version.
 
 Code of Conduct
-=====
+-----
 
 Safety Guidelines
-=====
+-----
 
 Participation
-=====
+-----
 
 Team Events
-=====
+-----
 
 
