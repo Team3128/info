@@ -18,8 +18,8 @@ We do not take applications to join the team. Members may come and go as they wi
 
 All members must sign a Rules & Safety Agreement to participate on the team.
 
-####Team Dues
-Due to the high cost of maintaining the robotics program including registration, material costs, and other associated fees, all members are expected to contribute $200 annually for team dues. In return, members will receive two team t-shirts and various other team spirit wear. Students unable to meet this requirement should talk to a lead mentor or faculty advisor.
+####Suggested Donation
+Due to the high cost of maintaining the robotics program including registration, material costs, and other associated fees, all team members are encouraged to give a suggested donation of $200. 
 
 ###FRC Tournaments
 Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. All tournaments are open to anyone who wishes to participate. However, all official drive team and pit crew positions will be given on strictly a merit basis.
