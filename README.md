@@ -31,6 +31,21 @@ If a member joins mid-year, they must agree to the Rules & Safety Agreement by t
 Safety Guidelines
 -----
 
+Workshop Safety
+* No team member is to ever work without a mentor or faculty advisor on site.
+* Safety glasses are required at all times while in designated areas of the workshop. 
+* Loose hair and long clothing must be tied back or removed before a member is permitted to use any machine tools.
+* Food and drink are allowed in team facilities only at the discretion of adult mentors or faculty advisors.
+
+Machine Safety
+* Any member intending to use a potentially dangerous tool must have completed a mentor-led tools training session, or have passed a mentor-led tools safety test.
+* Upon finishing using a tool, it must be returned to its designated location in the workshop. At the end of work sessions, all tools and materials must be put away.
+* If a power tool malfunctions or breaks, it must be reported to a mentor immediately.
+
+Mentors and Faculty Advisors always have the final word in any safety-related situation due to the hazardous nature of robotics.
+
+Failure to comply with the above safety rules will result in disciplinary action, including removal from the workshop and possibly dismissal from the team.
+
 ###Participation
 
 ####Joining the Team
@@ -44,11 +59,7 @@ Due to the high cost of maintaining the robotics program including registration,
 ###FRC Tournaments
 Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. All tournaments are open to anyone who wishes to participate. However, all official drive team and pit crew positions will be given on strictly a merit basis.
 
-
-###Behavior
-- All Canyon Crest Academy Behavior Rules are in effect at all team meetings, events, and tournaments.
-- Members whose behavior is below the standards of Team 3128 will face disciplinary action.
-- At tournaments, those are who are not members of Team 3128 but are supporting the team in any way, such as parents and friends, must adhere to these guidelines as well.
+At tournaments, those are who are not members of Team 3128 but are supporting the team in any way, such as parents and friends, must adhere to these guidelines as well.
 
 ####FIRST Robotics Competition
 - FRC Build will occur during the official FIRST Build Season, starting at Kickoff and ending on Build Stop Day.
