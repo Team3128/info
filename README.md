@@ -14,7 +14,9 @@ Our Code of Conduct outlines how members, mentors and parents conduct themselves
 * Diligent efforts by both students and adults to protect team members from harm.
 * Freedom to try new ideas and strategies in different areas of the team.
 
-During the team's activities, all Canyon Crest Academy school rules are in effect while on-campus or off-campus. Our team also follows the requirements listed in FIRST's Youth Protection Program. Members who behave in a manner that is lower than the standards set by Team 3128 will face disciplinary action including removal from the team.
+During the team's activities, all Canyon Crest Academy school rules are in effect while on-campus or off-campus. Our team also follows the requirements listed in FIRST's Youth Protection Program. Please refer to both of those document's for their complete set of guidelines.
+
+Members engaging in team activities, both on and off campus, are representing the team either positively or negatively. Because of that, members who behave in a manner that is lower than the standards set by Team 3128 will face disciplinary action including removal from the team.
 
 #### Reporting Code Violations
 
