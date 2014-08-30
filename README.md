@@ -16,6 +16,10 @@ Our Code of Conduct outlines how members, mentors and parents conduct themselves
 
 During the team's activities, all Canyon Crest Academy school rules are in effect while on-campus or off-campus. Our team also follows the requirements listed in FIRST's Youth Protection Program. Members who behave in a manner that is lower than the standards set by Team 3128 will face disciplinary action including removal from the team.
 
+#### Reporting Code Violations
+
+All students, mentors, and parents who are aware of a violation of our Code of Condcut, or is in doubt about whether or not a behavior is appropriate, is required to immediately consult a Lead Mentor or Canyon Crest Academy Administrator.
+
 #### Rules & Safety Agreement
 
 All members that participate in Team 3128's activities must sign (physically or electronically) our Rules & Safety Agreement stating that they will adhere to all rules and guidelines stated in this document. Each year two *crash course* meetings will be held that overviews the team's general workflow and guidelines that members must follow. At that time members will be required to agree to the Rules & Safety Agreement.
