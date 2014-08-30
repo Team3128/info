@@ -8,6 +8,20 @@ This contract is stored online where anyone can reference it at anytime and see 
 Code of Conduct
 -----
 
+Our Code of Conduct outlines how members, mentors and parents conduct themselves within our robotics activities. During all team activities, our team aims to consistenly provide:
+* An environment where team members can learn, have fun, and feel safe.
+* Enviornments where team members can develop supportive relationships, while observing appropriate boundaries.
+* Diligent efforts by both students and adults to protect team members from harm.
+* Freedom to try new ideas and strategies in different areas of the team.
+
+During the team's activities, all Canyon Crest Academy school rules are in effect while on-campus or off-campus. Our team also follows the requirements listed in FIRST's Youth Protection Program. Members who behave in a manner that is lower than the standards set by Team 3128 will face disciplinary action including removal from the team.
+
+#### Rules & Safety Agreement
+
+All members that participate in Team 3128's activities must sign (physically or electronically) our Rules & Safety Agreement stating that they will adhere to all rules and guidelines stated in this document. Each year two *crash course* meetings will be held that overviews the team's general workflow and guidelines that members must follow. At that time members will be required to agree to the Rules & Safety Agreement.
+
+If a member joins mid-year, they must agree to the Rules & Safety Agreement by their third meeting.
+
 Safety Guidelines
 -----
 
