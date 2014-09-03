@@ -33,6 +33,7 @@ Workshop Safety
 * No team member is to ever work without a mentor or faculty advisor on site.
 * Safety glasses are required at all times while in designated areas of the workshop. 
 * Loose hair and long clothing must be tied back or removed before a member is permitted to use any machine tools.
+* Closed toed shoes must be worn in the workshop at all times.
 * Food and drink are allowed in team facilities only at the discretion of adult mentors or faculty advisors.
 * Members inside the workshop or computer lab must participate in a robotics related activity. If a member is seen not participating they will be asked to leave the workshop. Horseplay and games will not be tolerated.
 
