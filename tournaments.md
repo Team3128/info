@@ -1,3 +1,5 @@
+**Please note: This is currently a draft. This policy has not be completed and is not currently in effect.**
+
 Team Tournament/Traveling Policy
 ----
 
