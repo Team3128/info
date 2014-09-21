@@ -18,6 +18,6 @@ Team fundraising items may also be sold in person either on-campus or off-campus
 Both online and in-person orders will be received by the Sales Coordinator. The Sales Coordinator will work with an adult mentor to order the necessary number of items to fulfill all orders. For online orders, individuals will be emailed that their order is ready to be picked up after school at designated times. For in-person orders, team members will be emailed that their order is ready and must distribute the orders correctly.
 
 ## Fundraising and Travel Expenses
-For all sales designated towards specific team members (either through a field on the online form, or for all in-person orders), 50% of the profits for each sale will counted and can go towards that person's travel expenses. At the time of creating a travel request, the amount will be deducted from your overall total payment required. 
+For all sales designated towards specific team members (either through a field on the online form, or for all in-person orders), 50% of the profits for each sale will counted and can go towards that person's travel expenses. At the time of creating a travel request, the amount will be automatically deducted from your overall total payment required. 
 
-This deduction can only be used as a discount on travel expenses in the same school year as it was earned and cannot be transferred to any other student. 
+This deduction can only be used as a subsidy on travel expensenses. Any leftover earnings upon graduation will be transferred to the team.
