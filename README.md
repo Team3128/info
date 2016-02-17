@@ -21,7 +21,7 @@ Any member engaging in team activities represents our team - positively or negat
 
 **Reporting Code Violations**: All students, mentors, and parents aware of a violation of our Code of Condcut, or in doubt about if a behavior is appropriate, is required to immediately consult a Lead Mentor or Canyon Crest Academy Administrator.
 
-##Safety
+## Safety
 Our team provides students with unique access to a wide variety of tools. In order to ensure that no member is harmed through the use or misuse of tools, we take safety very seriously.
 
 ### Workshop Safety
@@ -33,23 +33,22 @@ Our team provides students with unique access to a wide variety of tools. In ord
 * Members inside the workshop or computer lab must participate in a robotics related activity. If a member is seen not participating they will be asked to leave the workshop. Horseplay and games will not be tolerated.
 
 ### Machine Safety
-* Any member intending to use a potentially dangerous tool must have completed a mentor-led tools training session, or have passed a mentor-led tools safety test.
+* Any member intending to use a potentially dangerous tool must have completed a tool certification within the current school year.
 * Upon finishing using a tool, it must be returned to its designated location in the workshop. At the end of work sessions, all tools and materials must be put away.
-* If a power tool malfunctions or breaks, it must be reported to a mentor immediately.
+* Tools that malfunction or break must be reported to a mentor immediately.
 
 Due to the hazardous nature of robotics, Mentors and Faculty Advisors always have the final word in any safety-related situation. Failure to comply with safety rules will result in disciplinary action, including removal from the workshop and possible dismissal from the team.
 
 ### Tool Certification
 Team members must be trained and certified in workshop tools in order to use them. Tool training may be done by a certified team member, and then verified by a mentor. Tool certifications must be reverified at the beginning of each year, as required knowledge may be change during the year.
 
-##FIRST Robotics Competition
+## Meeting Times & Locations
+All meetings will occur at Canyon Crest Academy from 3pm to 5:30pm unless otherwise noted by the leadership team. General team meetings will occur on Wednesday and Friday, although other events or meetings may be announced.
 
-* FRC Build will occur during the official FIRST Build Season, starting at Kickoff and ending on Build Stop Day.
-* All build will occur on Canyon Crest Academy premises from 3pm to 6pm unless otherwise noted by the leadership team.
-* During FRC Build, the team will meet every day from unless otherwise noted by the leadership team.
-* FRC Build will not meet the day before finals, or on the first day of finals.
+### FRC Build Season
+The FRC Build Season will occur during the official FIRST Build Season, starting at Kickoff and ending on Build Stop Day. During FRC Build, the team will meet every day from unless otherwise noted by the leadership team. FRC Build will not meet the day before finals, or on the first day of finals.
 
-## Tournaments
-Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. All tournaments are open to anyone who wishes to participate. However, all official drive team and pit crew positions will be given on strictly a merit basis.
+### Tournaments
+Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. While members are welcome to attend tournaments, all official drive team and pit crew positions will be given on strictly a merit basis. Memebers may not skip school in order to attend a tournament, unless a properly signed field trip permission form has been received.
 
 At tournaments, those are who are not members of Team 3128 but are supporting the team in any way, such as parents and friends, must adhere to these guidelines as well.
