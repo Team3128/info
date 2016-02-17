@@ -7,19 +7,17 @@ This contract is stored online where anyone can reference it at anytime and see 
 
 ##Code of Conduct
 
-Our Code of Conduct outlines how members, mentors and parents conduct themselves within our robotics activities. During all team activities, our team aims to consistenly provide:
+Our Code of Conduct outlines how members, mentors and parents conduct themselves during all team activities by providing:
 * An environment where team members can learn, have fun, and feel safe.
 * Enviornments where team members can develop supportive relationships, while observing appropriate boundaries.
 * Diligent efforts by both students and adults to protect team members from harm.
 * Freedom to try new ideas and strategies in different areas of the team.
 
-During the team's activities, all [Canyon Crest Academy school rules](http://cc.sduhsd.net/documents/KeyInfo/Discipline%20Policy15-16.pdf) are in effect while on-campus or off-campus. Our team also follows the requirements listed in [FIRST's Youth Protection Program](http://www.firstinspires.org/resource-library/youth-protection-policy). Please refer to both of those document's for their complete set of guidelines.
+During the team's activities, all [Canyon Crest Academy school rules](http://cc.sduhsd.net/documents/KeyInfo/Discipline%20Policy15-16.pdf) are in effect, either while on-campus or off-campus. We also comply with all requirements listed in [FIRST's Youth Protection Program](http://www.firstinspires.org/resource-library/youth-protection-policy).
 
-Members engaging in team activities, both on and off campus, are representing the team either positively or negatively. Because of that, members who behave in a manner that is lower than the standards set by Team 3128 will face disciplinary action including removal from the team.
+Any member engaging in team activities represents our team - positively or negatively. Behaving in a manner lower than the standards set will result in disciplinary action including removal from the team.
 
-### Reporting Code Violations
-
-All students, mentors, and parents who are aware of a violation of our Code of Condcut, or is in doubt about whether or not a behavior is appropriate, is required to immediately consult a Lead Mentor or Canyon Crest Academy Administrator.
+**Reporting Code Violations**: All students, mentors, and parents aware of a violation of our Code of Condcut, or in doubt about if a behavior is appropriate, is required to immediately consult a Lead Mentor or Canyon Crest Academy Administrator.
 
 ### Rules & Safety Agreement
 
