@@ -24,18 +24,18 @@ Any member engaging in team activities represents our team - positively or negat
 ## Safety
 Our team provides students with unique access to a wide variety of tools. In order to ensure that no member is harmed through the use or misuse of tools, we take safety very seriously.
 
-### Workshop Safety
+### Personal Safety
 * No team member is to ever work without a mentor or faculty advisor on site.
 * Safety glasses are required at all times while in designated areas of the workshop. 
 * Loose hair and long clothing must be tied back or removed before a member is permitted to use any machine tools.
-* Closed toed shoes must be worn in the workshop at all times.
-* Food and drink are allowed in team facilities only at the discretion of adult mentors or faculty advisors.
-* Members inside the workshop or computer lab must participate in a robotics related activity. If a member is seen not participating they will be asked to leave the workshop. Horseplay and games will not be tolerated.
+* Closed toed shoes must be worn in the workshop at all times. Long pants are recommended.
 
-### Machine Safety
+### Workshop Safety
+* Food and drink are allowed in team facilities only at the discretion of adult mentors or faculty advisors.
 * Any member intending to use a potentially dangerous tool must have completed a tool certification within the current school year.
 * Upon finishing using a tool, it must be returned to its designated location in the workshop. At the end of work sessions, all tools and materials must be put away.
 * Tools that malfunction or break must be reported to a mentor immediately.
+* Members inside the workshop or computer lab must participate in a robotics related activity. If a member is seen not participating they will be asked to leave the workshop. Horseplay and games will not be tolerated.
 
 Due to the hazardous nature of robotics, Mentors and Faculty Advisors always have the final word in any safety-related situation. Failure to comply with safety rules will result in disciplinary action, including removal from the workshop and possible dismissal from the team.
 
