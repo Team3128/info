@@ -52,3 +52,6 @@ The FRC Build Season will occur during the official FIRST Build Season, starting
 Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. While members are welcome to attend tournaments, all official drive team and pit crew positions will be given on strictly a merit basis. Memebers may not skip school in order to attend a tournament, unless a properly signed field trip permission form has been received.
 
 At tournaments, those are who are not members of Team 3128 but are supporting the team in any way, such as parents and friends, must adhere to these guidelines as well.
+
+## Academic Paramountcy 
+Our team recognizes that while robotics is important, a student's academic progress is paramount to a students involvement on our team. Because of this, students that are absent from school are not able to attend robotics on the day(s) they are absent. While there are exceptions to this rule due to uncontrollable circumstances, the general rule is that if a reasonable effort could have been made to attend class, the student must attend class.
