@@ -49,7 +49,7 @@ All meetings will occur at Canyon Crest Academy from 3pm to 5:30pm unless otherw
 The FRC Build Season will occur during the official FIRST Build Season, starting at Kickoff and ending on Build Stop Day. During FRC Build, the team will meet all days of the week, except Sunday, unless otherwise noted by the leadership team. FRC Build will not meet the day before finals, or on the first day of finals.
 
 ### Tournaments
-Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. While members are welcome to attend tournaments, all official drive team and pit crew positions will be given on strictly a merit basis. Memebers may not skip school in order to attend a tournament, unless a properly signed field trip permission form has been received.
+Each year the team will go to a number of FRC Tournaments to compete with the FRC Robot. While members are welcome to attend tournaments, all official drive team and pit crew positions will be given on strictly a merit basis. Memebers may not skip school in order to attend a tournament, unless a properly signed field trip permission form has been received. All students selected for competition positions must attend the full event unless a major immovable academic milestone is in direct conflict.
 
 At tournaments, those are who are not members of Team 3128 but are supporting the team in any way, such as parents and friends, must adhere to these guidelines as well.
 
