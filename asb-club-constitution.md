@@ -5,7 +5,7 @@ For: Team 3128: The Aluminum Narwhals
 The purpose of this club is to educate anyone who wishes to learn robotics and get involved with STEM through hands on programs. We also compete in the FRC Competition. 
 
 ### Membership Requirements:
-In order to be a member you must attend at least one meeting per week. You also must be registered as a member on the STIMS website. 
+In order to be a member you must attend at least one meeting per week. You also must be registered as a member on the STIMS website. By being a member, you agree to adhere to the [Team Member Contract](http://github.com/Team3128/info/README.md)
 
 ### Meetings and Meeting Minutes:
 Meetings will be held twice a week after school. Meeting minutes will be recorded at every meeting in which club money is spent, any form regarding the club is filled out, changes are made to any club document, and any time votes are held. 
