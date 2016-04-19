@@ -10,7 +10,7 @@ Team 3128's website is hosted on GitHub. The entire website has been made using 
 ## Website Structure
 This will be a quick overview of how to edit/create pages.(All the information pertaining to Jekyll is on [their website]("https://jekyllrb.com/")) The base of the site is written in HTML. For instance, the homepage layout is written like so:
 
-<pre><code>
+```
 <!DOCTYPE html>
 <html>
   {% include head.html %}
@@ -27,7 +27,7 @@ This will be a quick overview of how to edit/create pages.(All the information p
     {% include footer.html %}
   </body>
 </html>
-</pre></code>
+```
 
 Let's talk about everything you need to know.
  - {% include "file name here" %} - This the Jekyll's way of including HTML files in a singular line. Let's say you have code for a sidebar and you wanted to put it in the page layout. Rather than copy and pasting that code into every single page you want it in, you could just pop it in the "_include" directory and add {% include sidebar.html %} everywhere you want it
@@ -38,14 +38,14 @@ Let's talk about everything you need to know.
 ## Creating Pages
 Every single page on the site is created in Markdown(except for the homepage). To create a new page, you need to create a new .md file and name it the name of the page. Once created, the MOST important thing to do is to specify the **front matter**. All that is is a few lines of information at the top of every page that tells the website where a page lives, what layout to use, and anything else. This is the format of front matter:
 
-<pre><code>
+```
 ---
 layout: "layout name"
 title: "page title"
 shownav: "true/false"
 permalink: "permalink"
 ---
-</pre></code>
+```
 
 *layout:* Our website has three layouts: "page"(a generic page), "stusub"(a page that belongs in the students directory), and "parpage"(a page that belongs in the parents directory)
 
