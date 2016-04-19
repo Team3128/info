@@ -4,6 +4,7 @@ Team 3128's website is hosted on GitHub. The entire website has been made using 
 
 ## Editing Prerequisites
 *To change information/add pages:* The ability to edit text
+
 *To change formatting/styles:* Basic knowledge of HTML and CSS
 
 ## Website Structure
@@ -36,13 +37,14 @@ Let's talk about everything you need to know.
  
 ## Creating Pages
 Every single page on the site is created in Markdown(except for the homepage). To create a new page, you need to create a new .md file and name it the name of the page. Once created, the MOST important thing to do is to specify the **front matter**. All that is is a few lines of information at the top of every page that tells the website where a page lives, what layout to use, and anything else. This is the format of front matter:
-
+<pre><code>
 ---
 layout: "layout name"
 title: "page title"
 shownav: "true/false"
 permalink: "permalink"
 ---
+</pre></code>
 
 *layout:* Our website has three layouts: "page"(a generic page), "stusub"(a page that belongs in the students directory), and "parpage"(a page that belongs in the parents directory)
 *title:* Here, you put what you want the title of the page to be
