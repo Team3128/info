@@ -37,6 +37,7 @@ Let's talk about everything you need to know.
  
 ## Creating Pages
 Every single page on the site is created in Markdown(except for the homepage). To create a new page, you need to create a new .md file and name it the name of the page. Once created, the MOST important thing to do is to specify the **front matter**. All that is is a few lines of information at the top of every page that tells the website where a page lives, what layout to use, and anything else. This is the format of front matter:
+
 <pre><code>
 ---
 layout: "layout name"
@@ -47,9 +48,13 @@ permalink: "permalink"
 </pre></code>
 
 *layout:* Our website has three layouts: "page"(a generic page), "stusub"(a page that belongs in the students directory), and "parpage"(a page that belongs in the parents directory)
+
 *title:* Here, you put what you want the title of the page to be
+
 *shownav:* If you want the page to show up in the navigation bar, you make this true.
+
 UPDATE: shownav has been depreciated. All navigation bar changes are manual within the _include file "header.html"
+
 *permalink:* This page will show as http://team3128.org/"permalink". IMPORTANT: make sure the permalink begins and ends with a /. When nesting a page under Students of Parents, make the permalink show as "/students/'name'/" or "/parents/'name'/"
 
 Fromt here, you just  type into the page just as you would like it to show online
