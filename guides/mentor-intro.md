@@ -11,7 +11,7 @@ good idea of how our team operates.
 	- [Meeting Times & Locations](../contract.md)
 	- Season Scheduling / Calendar
 	- Project Overviews
-	- Leadership Meetings
+	- [Leadership Team](../resources/leadership.md)
 	- Team Resources
 		- [Website](http://team3128.org)
 		- [Github](http://github.com/Team3128)
@@ -25,3 +25,4 @@ good idea of how our team operates.
 - Getting Started as a Mentor
 	- Scheduling/Availability
 	- District Clearance for Mentors
+	- More [Resources for Mentors](../resources/mentors.md)

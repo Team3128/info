@@ -23,4 +23,4 @@ good idea of how our team operates.
 	- Getting Tool Certified
 	- [Logging Workshop Hours](../resources/attendance.md)
 	- Applying for a Competition Position
-	- Applying for the Leadership Team
+	- [Applying for the Leadership Team](../resources/leadership.md)
