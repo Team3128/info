@@ -1,5 +1,7 @@
 # Encoder-Based Turning
-NOTE:  I (Jamie) learned this method from Kian Sheik, our 2014-2015 Head of Controls and a programmer on De-Evolution.  I don't know if he came up with it or got it somewhere else, but now I will teach it to you.  This is how the autonomous driving code currently works on this team. 
+NOTE:  I (Jamie) learned this method from Kian Sheik, our 2014-2015 Head of Controls and a programmer on De-Evolution.  I don't know if he came up with it or got it somewhere else, but now I will teach it to you.  
+
+This document details the method that our robot code uses for controlled movement with encoders.  It's how the autonomous driving code currently works on this team. 
 
 It's really fairly simple; it just uses geometry.
 
