@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="turning-explanation-3.svg"
-   inkscape:export-filename="C:\Users\Jamie\Documents\info\resources\images\turning-explanation-1.png"
+   inkscape:export-filename="C:\Users\Jamie\Documents\info\resources\images\turning-explanation-3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -59,6 +59,15 @@
     <g
        id="g4171"
        transform="matrix(0,1,-1,0,1052.4885,745.9072)">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#0029e8;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4159"
+         transform="matrix(0,-1,1,0,0,0)"
+         r="144.70435"
+         cy="120.3344"
+         cx="-881.5202"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <path
          style="fill:#ff1010;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 119.09709,804.91184 c 0,0 -22.24873,1.60452 -31.34011,15.24158 -9.09137,13.63706 -11.11167,28.28427 -11.11167,28.28427 l 10.6066,2.52538 -19.896677,6.80059 -13.550398,-16.0399 10.902471,3.38761 c 0,0 8.480943,-25.57344 15.149663,-33.32715 14.300575,-16.62727 39.178851,-20.53744 39.178851,-20.53744 z"
@@ -109,13 +118,6 @@
          d="m 209.48037,737.32091 21.2132,0"
          id="path4142-6"
          inkscape:connector-curvature="0" />
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#0029e8;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path4159"
-         transform="matrix(0,-1,1,0,0,0)"
-         r="144.70435"
-         cy="120.3344"
-         cx="-881.5202" />
     </g>
   </g>
 </svg>
